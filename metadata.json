@@ -1,0 +1,6 @@
+{
+  "name": "SaberAnalítica - Portal Docente Saber 11° Gustavo Restrepo",
+  "description": "Plataforma profesional y amigable de analítica pedagógica e histórico de resultados ICFES Saber 11° para docentes y directivos del Colegio Gustavo Restrepo IED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
